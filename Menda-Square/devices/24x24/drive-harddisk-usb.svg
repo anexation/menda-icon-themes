@@ -12,7 +12,7 @@
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="drive-harddisk-usb.svg">
   <metadata
      id="metadata10">
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1280"
+     inkscape:window-height="670"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="12"
+     inkscape:cx="6.0315394"
      inkscape:cy="13.051275"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -52,7 +52,7 @@
        id="grid3004" />
   </sodipodi:namedview>
   <path
-     style="fill:#dc4946;fill-opacity:1;stroke:none"
+     style="fill:#27ae60;fill-opacity:1;stroke:none"
      d="m 12,20 c 4,0 4.003364,-3.5 4.003364,-3.5 l 0,-7.4865449 c 0,-0.554 -0.446,-1 -1,-1 l -6.0067274,0 c -0.5540004,0 -1.0000004,0.446 -1.0000004,1 l 0,7.4865449 C 7.9966362,16.5 8,20 12,20 z"
      id="rect2991"
      inkscape:connector-curvature="0"
