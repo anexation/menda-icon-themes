@@ -1,0 +1,2 @@
+menda-icon-themes
+=================
