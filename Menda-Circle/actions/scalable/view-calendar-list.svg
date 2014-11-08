@@ -14,8 +14,8 @@
    height="48"
    id="svg3815"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="view-calendar-holyday.svg">
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="view-calendar-list.svg">
   <defs
      id="defs3817">
     <linearGradient
@@ -59,16 +59,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.40905"
-     inkscape:cx="24.745485"
+     inkscape:cx="11.368152"
      inkscape:cy="21.214736"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="959"
-     inkscape:window-height="757"
-     inkscape:window-x="571"
-     inkscape:window-y="96"
-     inkscape:window-maximized="0">
+     inkscape:window-width="1280"
+     inkscape:window-height="670"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1">
     <sodipodi:guide
        position="9,39.000017"
        orientation="30,0"
@@ -102,7 +102,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -166,7 +166,7 @@
        x="29.926708"
        y="1013.3622" />
     <rect
-       style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#8c8c8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3042"
        width="22.483589"
        height="1.2087952"
@@ -179,9 +179,9 @@
        height="1.2087952"
        width="22.483589"
        id="rect3044"
-       style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#8c8c8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
-       style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#8c8c8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3046"
        width="22.483589"
        height="1.2087952"
@@ -193,6 +193,6 @@
        height="1.2087952"
        width="22.483589"
        id="rect3048"
-       style="color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#8c8c8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
