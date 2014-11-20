@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="battery.svg">
+   sodipodi:docname="gnome-power-manager.svg">
   <metadata
      id="metadata331">
     <rdf:RDF>
@@ -36,24 +36,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="631"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
      id="namedview329"
      showgrid="false"
-     inkscape:zoom="6.2713768"
-     inkscape:cx="23.405875"
-     inkscape:cy="22.169383"
-     inkscape:window-x="-2"
-     inkscape:window-y="29"
+     inkscape:zoom="8.8690661"
+     inkscape:cx="30.721768"
+     inkscape:cy="18.89989"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3">
     <inkscape:grid
        type="xygrid"
-       id="grid3308"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
+       id="grid3308" />
   </sodipodi:namedview>
   <defs
      id="defs4">
