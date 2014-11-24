@@ -14,7 +14,7 @@
    id="svg4166"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="xfpm-ac-adapter.svg">
   <defs
      id="defs4168" />
   <sodipodi:namedview
@@ -32,9 +32,9 @@
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
-     inkscape:window-height="631"
-     inkscape:window-x="-2"
-     inkscape:window-y="29"
+     inkscape:window-height="632"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata4171">
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,7 +82,7 @@
          inkscape:connector-curvature="0"
          id="rect6591"
          d="m -17.073748,12.39523 c -1.558651,0 -2.878937,1.32271 -2.878937,2.878937 l 0,24.249508 c 0,1.556227 1.320286,2.878936 2.878937,2.878936 l 14.3946849,0 c 1.5586508,0 2.76820863,-1.322709 2.76820863,-2.878936 l 0,-24.249508 c 0,-1.556227 -1.20955783,-2.878937 -2.76820863,-2.878937 l -14.3946849,0 z m 0,1.993111 14.3946849,0 c 0.4357492,0 0.7750984,0.35569 0.7750984,0.885826 l 0,24.249508 c 0,0.530135 -0.3393496,0.885826 -0.7750984,0.885826 l -14.3946849,0 c -0.435749,0 -0.885827,-0.355691 -0.885827,-0.885826 l 0,-24.249508 c 0,-0.530136 0.450078,-0.885826 0.885827,-0.885826 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.56444448;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#8cbc65;fill-opacity:1;stroke:none;stroke-width:0.56444448000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
       <rect
          id="rect6593"
          rx="1"
@@ -90,7 +90,7 @@
          x="-14.904456"
          height="3.711"
          width="10"
-         style="fill:#f9f9f9"
+         style="fill:#8cbc65;fill-opacity:1"
          ry="1" />
       <path
          id="path6595"
