@@ -12,8 +12,8 @@
    viewBox="0 0 32 32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="media-floppy.svg">
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="3floppy_unmount.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1280"
+     inkscape:window-height="626"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="20.85965"
      inkscape:cx="10.444568"
      inkscape:cy="16"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-x="-2"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -52,17 +52,17 @@
        id="grid2987" />
   </sodipodi:namedview>
   <path
-     style="fill:#002b36;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     style="fill:#5f5f5f;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
      d="M 5,5 5,27 27,27 27,8 24,5 z"
      id="path2989"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#93a1a1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     style="fill:#9aa6a1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
      d="m 13,5 0,6 9,0 0,-6 z"
      id="path3759"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#eee8d5;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     style="fill:#dfdfdf;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
      d="m 8,13 0,14 16,0 0,-14 z"
      id="path3761"
      inkscape:connector-curvature="0" />

@@ -1,95 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="drive-harddisk-usb.svg">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="670"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-3.2542373"
-     inkscape:cy="8"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <path
-     style="fill:#27ae60;fill-opacity:1;stroke:none"
-     d="M 7.9999999,16 C 12,16 12.003364,12.5 12.003364,12.5 l 0,-7.4865442 c 0,-0.554 -0.446,-1 -1,-1 l -6.0067275,0 c -0.5540004,0 -1.0000004,0.446 -1.0000004,1 l 0,7.4865442 c 0,0 0.00336,3.5 4.0033638,3.5 z"
-     id="rect2991"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="scsssscs" />
-  <path
-     style="opacity:0.39446369;fill:#ffffff;fill-opacity:1;stroke:none"
-     d="m 9.9999999,15.6045 0,-11.6044993 1.0000001,0 0,10.9280903 c -0.262907,0.205663 -0.593092,0.567641 -1.0000001,0.676409 z"
-     id="rect3761"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <rect
-     style="fill:#657b83;fill-opacity:1;stroke:none"
-     id="rect3763"
-     width="6"
-     height="4.0000005"
-     x="5"
-     y="-4.000001"
-     transform="scale(1,-1)"
-     ry="0" />
-  <rect
-     style="opacity:0.31141872;fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect3765"
-     width="1"
-     height="4.0000005"
-     x="9"
-     y="-4.000001"
-     transform="scale(1,-1)" />
-  <rect
-     style="fill:#002b36;fill-opacity:1;stroke:none"
-     id="rect3767"
-     width="1"
-     height="2"
-     x="6"
-     y="-3.0000007"
-     transform="scale(1,-1)" />
-  <rect
-     style="fill:#002b36;fill-opacity:1;stroke:none"
-     id="rect3769"
-     width="1"
-     height="2"
-     x="9"
-     y="-3.0000007"
-     transform="scale(1,-1)" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16pt" height="16pt" viewBox="0 0 16 16" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(15.294118%,68.235294%,37.647059%);fill-opacity:1;" d="M 8 13.5 C 11 13.5 11 10.5 11 10.5 L 11 6.003906 C 11 5.003906 10 5.003906 10 5.003906 L 6 5.003906 C 6 5.003906 5 5.003906 5 6.003906 L 5 10.5 C 5 10.5 5 13.5 8 13.5 Z M 8 13.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.396078;" d="M 8.5 13.429688 L 8.5 5 L 10 5 L 10 12.808594 C 9.820312 12.949219 9.5 13.5 8.5 13.429688 Z M 8.5 13.429688 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(39.607843%,48.235294%,51.372549%);fill-opacity:1;" d="M 6 5 L 10 5 L 10 2.5 L 6 2.5 Z M 6 5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.309804;" d="M 8 5 L 9.5 5 L 9.5 2.5 L 8 2.5 Z M 8 5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(2.745098%,21.176471%,25.882353%);fill-opacity:0.654902;" d="M 6.5 4 L 7.5 4 L 7.5 3 L 6.5 3 Z M 6.5 4 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(2.745098%,21.176471%,25.882353%);fill-opacity:0.654902;" d="M 8.5 4 L 9.5 4 L 9.5 3 L 8.5 3 Z M 8.5 4 "/>
+</g>
 </svg>

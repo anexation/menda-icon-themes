@@ -12,8 +12,8 @@
    viewBox="0 0 32 32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="printer1.svg">
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="gnome-dev-printer-network.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1280"
+     inkscape:window-height="626"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="2.6074563"
-     inkscape:cx="18.413452"
-     inkscape:cy="12.881356"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:zoom="10.429825"
+     inkscape:cx="44.873698"
+     inkscape:cy="6.9534864"
+     inkscape:window-x="-2"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -60,7 +60,7 @@
      y="5" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#749ebb;fill-opacity:1;stroke:none"
+     style="fill:#949494;fill-opacity:1;stroke:none"
      d="m 6.3749999,14.005296 c -0.76175,0 -1.375,0.61325 -1.375,1.375 l 0,8.25 c 0,0.76175 0.61325,1.375 1.375,1.375 L 8,25 l 0,-4 16,0 0,4 1.625,0.0053 c 0.761746,0.0025 1.375,-0.61325 1.375,-1.375 l 0,-8.25 c 0,-0.76175 -0.61325,-1.375 -1.375,-1.375 z"
      id="rect2999"
      sodipodi:nodetypes="ssssccccsssss" />
@@ -72,14 +72,14 @@
      x="8"
      y="21" />
   <rect
-     style="fill:#55809d;fill-opacity:1;stroke:none"
+     style="fill:#6e6e6e;fill-opacity:1;stroke:none"
      id="rect3791"
      width="16"
      height="1"
      x="8"
      y="14" />
   <rect
-     style="fill:#55809d;fill-opacity:1;stroke:none"
+     style="fill:#6e6e6e;fill-opacity:1;stroke:none"
      id="rect3791-8"
      width="16"
      height="4"
