@@ -320,3 +320,10 @@ Type=Fixed
 #Size=16
 #Context=Status
 #Type=Scalable
+
+[categories/scalable]
+Size=16
+MinSize=16
+MaxSize=256
+Context=Categories
+Type=Scalable
